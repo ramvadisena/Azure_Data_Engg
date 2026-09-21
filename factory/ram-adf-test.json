@@ -1,0 +1,15 @@
+{
+	"name": "ram-adf-test",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5287a14b-32fe-4aac-93cd-40d0f2d89c6f",
+		"tenantId": "ba6b57a0-0c02-41f4-8cbd-a8b60dbcf561"
+	}
+}

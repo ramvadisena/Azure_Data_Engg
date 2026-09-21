@@ -1,0 +1,25 @@
+{
+	"name": "selected_files_processing",
+	"properties": {
+		"annotations": [],
+		"runtimeState": "Started",
+		"pipelines": [
+			{
+				"pipelineReference": {
+					"referenceName": "get metadata",
+					"type": "PipelineReference"
+				}
+			}
+		],
+		"type": "ScheduleTrigger",
+		"typeProperties": {
+			"recurrence": {
+				"frequency": "Minute",
+				"interval": 15,
+				"startTime": "2026-09-21T10:10:00",
+				"endTime": "2026-09-22T10:30:00",
+				"timeZone": "India Standard Time"
+			}
+		}
+	}
+}
