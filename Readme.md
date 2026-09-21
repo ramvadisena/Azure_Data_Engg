@@ -1,0 +1,1 @@
+This is the repo for maninatining all the sources of Azure data engineering with different tech stacks practices and poc and development.
