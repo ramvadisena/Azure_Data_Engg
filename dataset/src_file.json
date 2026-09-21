@@ -17,6 +17,7 @@
 			"columnDelimiter": ",",
 			"escapeChar": "\\",
 			"firstRowAsHeader": true,
+			"nullValue": " source/csvfiles/Fact_Sales_1.csv",
 			"quoteChar": "\""
 		},
 		"schema": [
